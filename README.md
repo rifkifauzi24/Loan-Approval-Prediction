@@ -1,5 +1,5 @@
 # Loan-Approval-Prediction
-#Melakukan pembersihan dan rekayasa fitur dari data aplikasi kredit, termasuk penanganan missing values dan encoding fitur kategorikal
+Melakukan pembersihan dan rekayasa fitur dari data aplikasi kredit, termasuk penanganan missing values dan encoding fitur kategorikal
 
 Mengembangkan dan membandingkan algoritma supervised learning seperti Logistic Regression, Decision Tree, dan Random Forest untuk prediksi kelayakan pinjaman
 
